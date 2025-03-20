@@ -170,5 +170,21 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# my exclusions
+#data files
+.kml
+.kmz
+.nc
 .csv
+
+#shapefiles
+.cpg
+.dbf
+.prj
+.qmd
+.shp
+.shx
+
+#figures
+.jpg
+.jpeg
+.png
