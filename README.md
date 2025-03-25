@@ -29,8 +29,9 @@ The VGG data from Sandwell et al. (2014) needs to be corrected for the VGG gravi
 bathymetry to achieve a Bouguer VGG anomaly. The regional gravity field then needs to be substracted, which
 yields a residual Bouguer anomaly. This corrected data is then used to perform a 3-D gravity inversion with SimPEG (Heagy et al.,
 2023).
-These steps are all included in the Jupyter Notebook _gravity_gradient_inversion_ in this repository.
 
+### Installation instructions:
+The methodology steps above are (or will) all included in the Jupyter Notebook _gravity_gradient_inversion_ in this repository. The included environment.yml file in the repository should help in runnning the provided code locally.
 
 #### References: 
 Heagy, L., Capriotti, J., Kang, S., Astic, T., Fournier, D., Cowan, D. C., et al. (2023). simpeg/simpeg: V0.19.0
