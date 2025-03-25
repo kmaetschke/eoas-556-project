@@ -171,28 +171,29 @@ cython_debug/
 .pypirc
 
 # data files
-.kml
-.kmz
-.nc
-.csv
-.xml
-.tif
-.tif.aux.xml
-.xyz
+*.kml
+*.kmz
+*.nc
+*.csv
+*.xml
+*.tif
+*.tif.aux.xml
+*.xyz
 
 # hapefiles
-.cpg
-.dbf
-.prj
-.qmd
-.shp
-.shx
+*.cpg
+*.dbf
+*.prj
+*.qmd
+*.shp
+*.shx
 
 # figures
-.jpg
-.jpeg
-.png
+*.jpg
+*.jpeg
+*.png
 
 # other documents
-.pdf
+*.pdf
+*.DS_Store
 
