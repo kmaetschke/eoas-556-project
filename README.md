@@ -15,8 +15,7 @@ In this project I am using publicly available satellite altimetry VGG data to in
 possible magma storage chamber under Kolumbo volcano.
 
 ### Data:
-The used data sets for global Vertical Gravity Gradients with 1 arcminute resolution are available at https://topex.ucsd.
-edu/pub/global grav 1min/ (Sandwell et al., 2014). They combine data from the altimeters Altika, Cryosat LRM,
+The used data sets for global Vertical Gravity Gradients with 1 arcminute resolution are available at https://topex.ucsd.edu/pub/global_grav_1min/ (Sandwell et al., 2014). They combine data from the altimeters Altika, Cryosat LRM,
 Cryosat SAR, Sentinel-3A/B, Jason-2, and Cryosat-2.
 For the corrections of the gravimetry data I use bathymetry data from GEBCO (https://download.gebco.net, GEBCO Bathymetric Compilation
 Group 2022).
