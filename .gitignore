@@ -170,15 +170,17 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-#data files
+# data files
 .kml
 .kmz
 .nc
 .csv
 .xml
 .tif
+.tif.aux.xml
+.xyz
 
-#shapefiles
+# hapefiles
 .cpg
 .dbf
 .prj
@@ -186,9 +188,11 @@ cython_debug/
 .shp
 .shx
 
-#figures
+# figures
 .jpg
 .jpeg
 .png
+
+# other documents
 .pdf
 
