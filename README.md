@@ -1,4 +1,4 @@
-# eoas-556-project
+# Satellite altimetry-derived gravimetry inversion at Kolumbo volcano
 Project for the course EOAS 556 at UBC (Lecturer: Lindsey Heagy)
 
 ### Summary:
