@@ -17,8 +17,8 @@ possible magma storage chamber under Kolumbo volcano.
 ### Data:
 The used data sets for global Vertical Gravity Gradients with 1 arcminute resolution are available at https://topex.ucsd.edu/pub/global_grav_1min/ (Sandwell et al., 2014). They combine data from the altimeters Altika, Cryosat LRM,
 Cryosat SAR, Sentinel-3A/B, Jason-2, and Cryosat-2.
-For the corrections of the gravimetry data I use bathymetry data from GEBCO (https://download.gebco.net, GEBCO Bathymetric Compilation
-Group 2022).
+For the corrections of the gravimetry data I use bathymetry data from GEBCO (https://download.gebco.net, GEBCO Compilation Group (2024) GEBCO 2024 Grid (doi:10.5285/1c44ce99-0a0d-5f4f-
+e063-7086abc0ea0f)).
 
 ### Methods:
 The method for using VGG data derived from satellite altimetry has been described by Le Mével (2024) and used
@@ -33,10 +33,6 @@ These steps are all included in the Jupyter Notebook _gravity_gradient_inversion
 
 
 #### References: 
-GEBCO Bathymetric Compilation Group 2022. (2022). The GEBCO2022 Grid - a continuous terrain model
-of the global oceans and land [Dataset]. NERC EDS British Oceanographic Data Centre NOC. Retrieved from
-https://www.gebco.net/data and products/gridded bathymetry data/gebco 2022/
-
 Heagy, L., Capriotti, J., Kang, S., Astic, T., Fournier, D., Cowan, D. C., et al. (2023). simpeg/simpeg: V0.19.0
 March 16, 2025 [Software]. Zenodo. Retrieved from https://docs.simpeg.xyz/v0.19.0/content/release/index.html
 
