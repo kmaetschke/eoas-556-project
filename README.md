@@ -1,4 +1,4 @@
-# Satellite altimetry-derived gravity gradient inversion at Kolumbo volcano
+# Gravity disturbance inversion at the submarine Kolumbo volcano
 Project for the course EOAS 556 at UBC (Lecturer: Lindsey Heagy)
 
 ### Summary:
