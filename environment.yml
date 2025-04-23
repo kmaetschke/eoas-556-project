@@ -2,8 +2,6 @@ name: course_project_env
 channels:
   - conda-forge
   - defaults
-  - https://repo.anaconda.com/pkgs/main
-  - https://repo.anaconda.com/pkgs/r
 dependencies:
   - discretize=0.11.2
   - matplotlib=3.10.0
@@ -13,3 +11,13 @@ dependencies:
   - rasterio=1.4.3
   - scipy=1.15.1
   - simpeg=0.23.0
+  - xarray
+  - pyproj
+  - cmocean
+  - verde
+  - harmonica
+  - IPython.display
+  - discretize
+  - simpeg
+  - choclo
+  
