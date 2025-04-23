@@ -18,11 +18,11 @@ storage chamber under Kolumbo volcano.
 ### Data:
 The used data sets for global gravity disturbances are available at https://icgem.gfz-potsdam.de/calcgrid (Ince et al. 2019). I use the EIGEN-6C4 gravity disturbance in a 1 arc-minute grid and geoid in a 15 arc-second grid.<br>
 For the corrections of the gravity data I use bathymetry data from GEBCO (https://download.gebco.net, GEBCO Compilation Group (2024) GEBCO 2024 Grid (doi:10.5285/1c44ce99-0a0d-5f4f-
-e063-7086abc0ea0f)).
+e063-7086abc0ea0f)).<br>
 For the corrections, I further use the CRUST1.0 model (https://ds.iris.edu/ds/products/emc-crust10/) (Laske et al., 2013).
 
 ### Methods:
-The method for correcting gravity disturbance data has been described by a Fatiando a Terra tutorial (Soler et al. 2021).
+The method for correcting gravity disturbance data has been described by a Fatiando a Terra tutorial (Soler et al. 2021). <br>
 The gravity disturbance needs to be corrected for the gravity effect of the bathymetry and topography to achieve a Bouguer graviyt disturbance. The regional gravity field then needs to be substracted, which yields a residual disturbance. This corrected data is then used to perform a 3-D gravity inversion with SimPEG (Heagy et al.,
 2023).
 
