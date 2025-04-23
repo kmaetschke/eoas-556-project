@@ -16,7 +16,7 @@ available gravity disturbance data to attempt to infer the location of a possibl
 storage chamber under Kolumbo volcano.
 
 ### Data:
-The used data sets for global gravity disturbances are available at https://icgem.gfz-potsdam.de/calcgrid (Ince et al. 2019). I use the EIGEN-6C4 gravity disturbance in a 1 arc-minute grid and geoid in a 15 arc-second grid.
+The used data sets for global gravity disturbances are available at https://icgem.gfz-potsdam.de/calcgrid (Ince et al. 2019). I use the EIGEN-6C4 gravity disturbance in a 1 arc-minute grid and geoid in a 15 arc-second grid.<br>
 For the corrections of the gravity data I use bathymetry data from GEBCO (https://download.gebco.net, GEBCO Compilation Group (2024) GEBCO 2024 Grid (doi:10.5285/1c44ce99-0a0d-5f4f-
 e063-7086abc0ea0f)).
 For the corrections, I further use the CRUST1.0 model (https://ds.iris.edu/ds/products/emc-crust10/) (Laske et al., 2013).
